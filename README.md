@@ -37,3 +37,7 @@ PHP ve MySQL kullanılarak geliştirildi.
 
 ---
 
+### Proje Ortakları
+
+Fatma Nur Köşürgeli, Semih Kurnalı, Atakan Ezer
+
