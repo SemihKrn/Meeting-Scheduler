@@ -20,19 +20,20 @@ PHP ve MySQL kullanılarak geliştirildi.
 
 ### Ana Sayfa
 
-![Ana Sayfa](Ana sayfa.png)
+![Ana Sayfa](images/anasayfa.png)
 
 ---
 
 ### Giriş Sistemi
 
-![Login](giris yap.png)
+![Login](images/girisyap.png)
+
 
 ---
 
 ### Takvim Sistemi
 
-![Takvim](takvim.png)
+![Takvim](images/takvim.png)
 
 ---
 
